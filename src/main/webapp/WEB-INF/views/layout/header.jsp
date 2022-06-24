@@ -35,7 +35,6 @@
 					<ul class="navbar-nav">
 						<li class="nav-item"><a class="nav-link" href="/auth/loginForm">로그인</a></li>
 						<li class="nav-item"><a class="nav-link" href="/auth/joinForm">회원가입</a></li>
-						<li class="nav-item">
 					</ul>
 				</c:when>
 				<c:otherwise>
@@ -46,8 +45,6 @@
 					</ul>
 				</c:otherwise>
 			</c:choose>
-
-
 
 		</div>
 	</nav>
